@@ -5,3 +5,5 @@ Realizando Alteração na tela inicial
 
 Adicionando git status 
 Fazer Merge
+
+Merge ver2
